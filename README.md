@@ -1,1 +1,1 @@
-# Covid
+# Course Rating Analysis
